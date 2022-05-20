@@ -45,7 +45,7 @@ en el archivo config.js del BOT:  #on restrict
 > ❇️ Para activar la lectura automática de mensajes escriba: #on autoread
 
 > ❇️ En caso que se cierre la sesión de Termux, escriba:
-> cd NotJhuzV1.1
+> cd NotJhuz1
 > npm start
 
 > ❇️ Si necesita obtener un nuevo Código QR, escriba en Termux:
