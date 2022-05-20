@@ -10,7 +10,7 @@
 --------- 
 
 ### ⚙️ AJUSTES
-- CAMBIAR NÚMERO DEL PROPIETARIO [Aquí](https://github.com/IdkJhus/NotJhuzV1.1/edit/master/config.js)
+- CAMBIAR NÚMERO DEL PROPIETARIO [Aquí](https://github.com/IdkJhus/NotJhuz1/edit/master/config.js)
 --------- 
 
 ### 📎 COMANDOS DE INSTALACIÓN PARA TERMUX
@@ -23,7 +23,7 @@
 > apt install ffmpeg -y
 > apt install imagemagick -y
 > git clone https://github.com/IdkJhus/NotJhuzV1.1
-> cd NotJhuzV1.1
+> cd NotJhuz1
 > ls
 > npm install
 > npm install -g npm@8.8.0
