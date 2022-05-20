@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '𝙉𝙤𝙩𝙅𝙝𝙪𝙯ᙆ  ᷦ×͜×'
 global.author = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
 
 
