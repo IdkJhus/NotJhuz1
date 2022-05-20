@@ -10,7 +10,7 @@
 --------- 
 
 ### ⚙️ AJUSTES
-- CAMBIAR NÚMERO DEL PROPIETARIO [Aquí](https://github.com/IdkJhus/NotJhuz1/edit/master/config.js)
+- CAMBIAR NÚMERO DEL PROPIETARIO [Aquí](https://github.com/IdkJhus/NotJhuz1/edit/main/config.js)
 --------- 
 
 ### 📎 COMANDOS DE INSTALACIÓN PARA TERMUX
