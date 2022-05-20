@@ -121,10 +121,10 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_✨ Que onda paps, como las carga? Bienvenido a este grupo chill, espero te guste o sino vete alv :v  🔰_*  \n┃\n┗━━━━━━━━━━━'
-  conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *ADIOS* 〙───\n┃━━━━━━━━━━━━\n┃ *_☠ Ni modo, vayase alv papu oh si Bv  _*\n┗━━━━━━━━━━'
-  conn.spromote = '@user Bienvenido al olimpo de los dioses 7u7'
-  conn.sdemote = '@user Ni modo qlo, pa´la otra será :v'
+  conn.welcome = 'qυє ση∂α @user, тυνιѕтє вυєη σנσ αℓ ιηgяєѕαя α: @subject. Eʂρҽɾαɱσʂ ϙυҽ αɠυαɳƚҽʂ ҽʅ Ⴆαɾԃσ ρҽԃαȥσ ԃҽ ƚɾσʅσ ყ ɳσ ʂαʅɠαʂ ʅʅσɾαɳԃσ.'
+  conn.bye = 'яαנá ∂є α¢α @user. ƒυє υη ρℓα¢єя υѕαятє ¢σмσ σвנєтσ ѕєχυαℓ..'
+  conn.spromote = '*@user* 𝐓𝐄 𝐍𝐎𝐌𝐁𝐑𝐎 𝐀𝐃𝐌𝐈𝐍 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 💤' 
+  conn.sdemote = '*@user* 𝐘𝐀 𝐍𝐎 𝐄𝐒 𝐀𝐃𝐌𝐈𝐍 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 ❌'
   conn.handler = handler.handler
   conn.onDelete = handler.delete
   conn.onParticipantsUpdate = handler.participantsUpdate
