@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
 handler.help = ['kickall']
 handler.tags = []
 handler.command = /^(kickall)$/i
-handler.owner = true
+handler.rowner = true
 handler.mods = false
 handler.premium = false
 handler.group = true
