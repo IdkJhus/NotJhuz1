@@ -23,7 +23,7 @@ let handler = async (m, { usedPrefix, command, args }) => {
         global.packname = stek1
         global.author = stek2
     } else {
-        m.reply(`Format salah ${usedPrefix + command} <packname>|<owner>`)
+        m.reply(`Formato Incorrecto ${usedPrefix + command} <packname>|<owner>`)
     }
 
 }
