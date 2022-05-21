@@ -43,6 +43,6 @@ conn.send3ButtonImg(m.chat, pp, menu, '©𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×', '�
 //ptt: true 
 //})
 }
-handler.command = /^(downloadmenu|menudescargar|descargasm|dm)$/i
+handler.command = /^(downloadmenu|menudescargar|descargasm|downm)$/i
 handler.fail = null
 module.exports = handler
