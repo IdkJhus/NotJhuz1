@@ -1,7 +1,7 @@
 let { MessageType } = require('@adiwajshing/baileys')
 
 let handler = async (m, { conn, text, participants }) => {
-  if (!m.quoted) throw 'Reply Pesan Yang Ingin Dikirim Ulang!'
+  if (!m.quoted) throw 'Responde el mensaje que deseas reenviar'
   let q = m.quoted 
   let c = m.quoted 
   let msg = conn.cMod(
@@ -13,7 +13,7 @@ let handler = async (m, { conn, text, participants }) => {
         quoted: m
       }
     ),
-    'Media Berhasil Dikirim Ulang!'
+    'Mensaje reenviado exitósamente'
   )
   await conn.relayWAMessage(msg)
 }
