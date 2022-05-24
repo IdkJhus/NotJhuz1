@@ -1,5 +1,7 @@
 # NotJhuz
-
+<p align="center"> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratistodo.com%2Fnaruto-gifs%2F&psig=AOvVaw3CsR0BS2cz7TiY2dSdMNpc&ust=1653516901467000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjQr8-U-fcCFQAAAAAdAAAAABAD.gif" alt="gif" width="500" height="279"/> 
+</p> 
 
  
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
