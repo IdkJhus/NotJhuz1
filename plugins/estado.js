@@ -1,7 +1,8 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, command, text, usedPrefix }) => {
   await conn.send3Button(m.chat, `
-*ℚ𝕦𝕖 𝕠𝕟𝕕𝕒 𝕡𝕒𝕡𝕦*
+*⚔ ℚ𝕦𝕖 𝕠𝕟𝕕𝕒 𝕡𝕒𝕡𝕦 ⚔* 
+⚔ 𝔾𝕣𝕒𝕔𝕚𝕒𝕤 𝕡𝕠𝕣 𝕦𝕥𝕚𝕝𝕚𝕫𝕒𝕣 𝕒 ℕ𝕠𝕥𝕁𝕙𝕦𝕫 ⚔
 
 *🕹 𝐄𝐬𝐭𝐚𝐝𝐨 𝐝𝐞𝐥 𝐛𝐨𝐭 🕹*
 *=> 𝐁𝐨𝐭: 𝐀𝐜𝐭𝐢𝐯𝐨 ✔️*
