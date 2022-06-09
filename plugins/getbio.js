@@ -6,13 +6,13 @@ let handler = async (m, { conn, text, command }) => {
     let bio = await conn.fetchStatus(who)
     m.reply(bio.status)
   } catch {
-    if (text) throw `bio is private!`
+    if (text) throw `La biografía es privada.`
     else try {
       let who = m.quoted ? m.quoted.sender : m.sender
       let bio = await conn.fetchStatus(who)
       m.reply(bio.status)
     } catch {
-      throw `bio is private!`
+      throw `La biografía es privada`
     }
   }
 }
