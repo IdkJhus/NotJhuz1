@@ -25,7 +25,7 @@ let handler = async (m, { conn, text, participants }) => {
 		}
 	}
 
-	if(total == 0) return conn.reply(m.chat, `*𝐌øɉɨŧø ha eliminado todos los fantasmas de este grupo:D.*`, m) 
+	if(total == 0) return conn.reply(m.chat, `*Se han eliminado todos los fantasmas de este grupo.*`, m) 
 
 	for(let i = 0; i < sum; i++) {
 		let users = m.isGroup ? participants.find(u => u.jid == member[i]) : {}
